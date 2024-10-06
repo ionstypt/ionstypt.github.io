@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ionstypt.github.io/sitemap.html.gz
+Sitemap: https://ionstypt.github.io/app/sitemap.html.gz
+Sitemap: https://ionstypt.github.io/assets/sitemap.html.gz
+Sitemap: https://ionstypt.github.io/css/sitemap.html.gz
+Sitemap: https://ionstypt.github.io/data/sitemap.html.gz
+Sitemap: https://ionstypt.github.io/includes/sitemap.html.gz
+Sitemap: https://ionstypt.github.io/item/sitemap.html.gz
+Sitemap: https://ionstypt.github.io/src/sitemap.html.gz
